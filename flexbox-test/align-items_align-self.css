@@ -1,0 +1,15 @@
+.flexContainer{
+
+    display:flex;
+  
+    height:70vh;
+  
+    align-items:center;
+  
+  }
+  
+  #flexItem-1{
+  
+    align-self:start;
+  
+  }

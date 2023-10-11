@@ -1,0 +1,17 @@
+.flexItems{
+
+    /*dette gjør det samme som det under*/
+  
+    flex: 0 1 32%;
+  
+    /*
+  
+    flex-grow: 0;
+  
+    flex-shrink: 1;
+  
+    flex-basis: 32%;
+  
+    */
+  
+  }

@@ -1,0 +1,9 @@
+.flexContainer{
+
+    display:flex;
+  
+    flex-direction:row;
+  
+    flex-wrap: wrap /**/ nowrap /**/ wrap-reverse;
+  
+  }

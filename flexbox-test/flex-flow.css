@@ -1,0 +1,17 @@
+/* Hvorfor error? - Cecilie
+
+.flexContainer{
+
+    display:flex;
+  
+    flex-flow: row wrap; /*gjør det samme som kodelinjene under*/
+  
+    /*
+  
+    flex-direction:row;
+  
+    flex-wrap: wrap | nowrap | wrap-reverse;*()
+  
+  }
+
+  */

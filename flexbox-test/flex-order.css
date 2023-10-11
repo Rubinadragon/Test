@@ -1,0 +1,17 @@
+#flex-item1{
+
+    order:1;
+  
+  }
+  
+  #flex-item2{
+  
+    order:3
+  
+  }
+  
+  #flex-item3{
+  
+    order: 0;
+  
+  }
